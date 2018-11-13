@@ -1,6 +1,7 @@
 # Decathlon Maven POM parent
+This project is the entry point for Decathlon projects. It means that all Decathlon's projects will have to inherit from this project.
 
-## Use it
+# Use it
 
 To use simple add the following to your pom.xml:
 
@@ -12,10 +13,10 @@ To use simple add the following to your pom.xml:
 </parent>
 ```
 
-## License
+# License
 
-This project is under [apache 2.0 license](LICENSE).
+The project is released under [Apache Software __LICENSE__, Version 2.0 ](LICENSE).
 
-## Contributing
+# Contributing
 
 Every one is welcomed to contribute, please have a look first to our [contribute policy](contributing.md).
