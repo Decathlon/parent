@@ -23,7 +23,7 @@
 
     <groupId>com.decathlon</groupId>
     <artifactId>parent</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <packaging>pom</packaging>
 
     <name>Decathlon open source POM parent</name>
@@ -43,7 +43,7 @@
         <url>https://github.com/decathlon/parent</url>
         <connection>https://github.com/decathlon/parent.git</connection>
         <developerConnection>scm:git:https://github.com/decathlon/parent.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>parent-1.1</tag>
     </scm>
 
     <issueManagement>
